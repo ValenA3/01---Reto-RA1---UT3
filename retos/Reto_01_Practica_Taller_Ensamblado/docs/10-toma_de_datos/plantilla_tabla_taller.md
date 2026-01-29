@@ -9,4 +9,7 @@
 | **Memoria RAM** | ELPIDA | PC2-5300U | DDR2, 1GB, 667 MHz | ![ram](../../assets/img/10-toma_de_datos/ram.png "RAM") |
 | **Disco HDD/SSD** | No tiene | - | - | ![drive](../../assets/img/10-toma_de_datos/drive.png "Almacenamiento") |
 | **Fuente de alimentación** | HP | dps 240mb | 240W, NO | ![psu](../../assets/img/10-toma_de_datos/psu.png "PSU") |
-| **Otros (GPU/Tarjetas)** | SILICON IMAGE | Sil 1364 DVI ADD2-N | | ![otros](../../assets/img/10-toma_de_datos/otros.png "Otros") |
+| **GPU** | SILICON IMAGE | Sil 1364 DVI ADD2-N | | ![otros](../../assets/img/10-toma_de_datos/otros.png "Otros") |
+| **Tarjeta de red** | Belkin | Dual Band Wireless A+G Desktop Band | | ![otros](../../assets/img/10-toma_de_datos/otros.png "Otros") |
+| **Adaptador** | Firewire | Jmb 381 | HP 3383 | ![otros](../../assets/img/10-toma_de_datos/otros.png "Otros") |
+                            
