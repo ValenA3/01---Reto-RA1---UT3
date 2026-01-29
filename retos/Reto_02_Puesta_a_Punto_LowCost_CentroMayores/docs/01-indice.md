@@ -1,0 +1,17 @@
+# 01 — Índice
+
+1. [Contexto y requisitos](02-contexto_y_requisitos.md)
+2. [Diagnóstico inicial del lote](10-diagnostico_inicial_lote.md)
+3. [Selección de SO ligero](20-seleccion_SO_ligero.md)
+4. [Instalación y post‑instalación](30-instalacion_y_postinstalacion.md)
+5. [Accesibilidad para mayores](40-accesibilidad_mayores.md)
+6. [Optimización de rendimiento](50-optimizacion_rendimiento.md)
+7. [Seguridad básica](60-seguridad_basica.md)
+8. [Análisis de mercado y PVP](65-analisis_mercado_y_pvp.md)
+9. [Métricas antes/después](70-metricas_antes_despues.md)
+10. [Presupuesto HW y ROI](75-plan_presupuesto_hw_y_roi.md)
+11. [Replicación en flota](80-replicacion_imagen_flota.md)
+12. [Plan de mantenimiento](85-plan_mantenimiento.md)
+13. [ENTREGA ÚNICA](90-ENTREGA_UNICA.md)
+14. [Glosario](95-glosario.md)
+15. [Checklist](99-entrega_y_checklist.md)

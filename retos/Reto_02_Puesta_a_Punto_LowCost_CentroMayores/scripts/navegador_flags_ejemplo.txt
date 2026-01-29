@@ -1,0 +1,5 @@
+--enable-features=UseOzonePlatform,VaapiVideoDecoder
+--disable-background-networking
+--disable-sync
+--disk-cache-size=104857600
+--disable-features=Translate
