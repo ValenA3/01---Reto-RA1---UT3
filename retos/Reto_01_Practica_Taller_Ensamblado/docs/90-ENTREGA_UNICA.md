@@ -30,14 +30,14 @@ Copia aquí lo esencial de **toma de datos**, **investigación técnica**, **rec
 
 | Componente | Marca/Fabricante | Modelo/Serie | Características técnicas visibles | Foto |
 |---|---|---|---|---|
-| **Placa base** | HP | DC 7800p SFP | Intel Q35 Express / LGA 775 / 4 slots | ![mb](../../assets/imgs/mb1.jpeg "Placa base") ![mb](../../assets/imgs/mb2.jpeg "Placa base") ![mb](../../assets/imgs/mb3.jpeg "Placa base") |
-| **Microprocesador** | Intel | I2 | E6750 / 2.666 GHz | ![cpu](../../assets/imgs/cpu1.jpeg "CPU") |
-| **Memoria RAM** | ELPIDA | PC2-5300U | DDR2, 1GB, 667 MHz | ![ram](../../assets/imgs/ram1.jpeg "RAM") |
-| **Disco HDD/SSD** | No tiene | - | - | ![drive](../../assets/img/10-toma_de_datos/drive.png "Almacenamiento") |
-| **Fuente de alimentación** | HP | dps 240mb | 240W, NO | ![psu](../../assets/imgs/psu1.jpeg "PSU") |
-| **GPU** | SILICON IMAGE | Sil 1364 DVI ADD2-N | | ![otros](../../assets/imgs//gpu1.jpeg "Otros") |
-| **Tarjeta de red** | Belkin | Dual Band Wireless A+G Desktop Band | | ![otros](../../assets/imgs/red1.jpeg "Otros") |
-| **Adaptador** | Firewire | Jmb 381 | HP 3383 | ![otros](../../assets/imgs/adaptador1.jpeg "Otros") |
+| **Placa base** | HP | DC 7800p SFP | Intel Q35 Express / LGA 775 / 4 slots | ![mb](../assets/imgs/mb1.jpeg "Placa base") ![mb](../../assets/imgs/mb2.jpeg "Placa base") ![mb](../assets/imgs/mb3.jpeg "Placa base") |
+| **Microprocesador** | Intel | I2 | E6750 / 2.666 GHz | ![cpu](../assets/imgs/cpu1.jpeg "CPU") |
+| **Memoria RAM** | ELPIDA | PC2-5300U | DDR2, 1GB, 667 MHz | ![ram](../assets/imgs/ram1.jpeg "RAM") |
+| **Disco HDD/SSD** | No tiene | - | - | ![drive](../assets/img/10-toma_de_datos/drive.png "Almacenamiento") |
+| **Fuente de alimentación** | HP | dps 240mb | 240W, NO | ![psu](../assets/imgs/psu1.jpeg "PSU") |
+| **GPU** | SILICON IMAGE | Sil 1364 DVI ADD2-N | | ![otros](../assets/imgs//gpu1.jpeg "Otros") |
+| **Tarjeta de red** | Belkin | Dual Band Wireless A+G Desktop Band | | ![otros](../assets/imgs/red1.jpeg "Otros") |
+| **Adaptador** | Firewire | Jmb 381 | HP 3383 | ![otros](../assets/imgs/adaptador1.jpeg "Otros") |
                             
 
 ## Investigación técnica — resumen
@@ -70,9 +70,9 @@ Procesador (https://www.amazon.es/dp/B000R9BJ2C?ref=cm_sw_r_cso_wa_apan_dp_8X8RE
 Placa Base (https://es.aliexpress.com/item/1005008636526118.html?invitationCode=aGpaM0RsTU5LSVlBUDVWSkplMkw5OU56WmNyd3E4TmJBbmx1U0U4L0F0bWVQemFTZUJrNWVWT0s1MU1hdTAyWg&srcSns=sns_WhatsApp&spreadType=socialShare&social_params=61397287410&bizType=ProductDetail&spreadCode=aGpaM0RsTU5LSVlBUDVWSkplMkw5OU56WmNyd3E4TmJBbmx1U0U4L0F0bWVQemFTZUJrNWVWT0s1MU1hdTAyWg&aff_fcid=2ab82ade5b3b41c7957771c8b5e16d01-1769686244286-04162-_EJlNIsG&tt=MG&aff_fsk=_EJlNIsG&aff_platform=default&sk=_EJlNIsG&aff_trace_key=2ab82ade5b3b41c7957771c8b5e16d01-1769686244286-04162-_EJlNIsG&shareId=61397287410&businessType=ProductDetail&platform=AE&terminal_id=1ca7aed10c964f75b3cfd0d661f873ff&afSmartRedirect=y) <br>
 RAM (https://www.ebay.com/itm/305210690499)
 - **Captura:** <br>
-Placa: ![placa](../../assets/imgs/placa2.PNG "Placa base") <br>
-Procesador: ![cpu](../../assets/imgs/cpu2.PNG "Placa base") <br>
-RAM: ![ram](../../assets/imgs/ram2.PNG "Placa base") <br>
+Placa: ![placa](../assets/imgs/placa2.PNG "Placa base") <br>
+Procesador: ![cpu](../assets/imgs/cpu2.PNG "Placa base") <br>
+RAM: ![ram](../assets/imgs/ram2.PNG "Placa base") <br>
 
 **Justificación breve:** Seria adecuado porque los productos son los mismos y deberian de funcionar de igual manera.
 
