@@ -4,7 +4,7 @@
 
 | Componente | Marca/Fabricante | Modelo/Serie | Características técnicas visibles | Foto |
 |---|---|---|---|---|
-| **Placa base** |  |  | Chipset / Socket / Nº slots RAM | ![mb](../../assets/img/10-toma_de_datos/mb.png "Placa base") |
+| **Placa base** | HP | DC 7800p SFP | Intel Q35 Express / LGA 775 / 4 slots | ![mb](../../assets/img/10-toma_de_datos/mb.png "Placa base") |
 | **Microprocesador** |  |  | (Si es visible) Modelo / Frecuencia | ![cpu](../../assets/img/10-toma_de_datos/cpu.png "CPU") |
 | **Memoria RAM** |  |  | Tipo (DDR3/4/5), Capacidad, Frecuencia | ![ram](../../assets/img/10-toma_de_datos/ram.png "RAM") |
 | **Disco HDD/SSD** |  |  | Interfaz (SATA/M.2), Capacidad | ![drive](../../assets/img/10-toma_de_datos/drive.png "Almacenamiento") |
