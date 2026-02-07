@@ -1,6 +1,6 @@
 # 00 — Portada
 
-- Alumno/a:  
-- Grupo:  
+- Alumno/a: Valenitn Andriyash Andriiash
+- Grupo:  2º
 - Reto: **Puesta a Punto Low‑Cost y Competitiva (Centro de mayores)**  
-- Fecha:
+- Fecha: 07/02/2026
