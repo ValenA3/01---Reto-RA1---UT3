@@ -12,10 +12,10 @@ ROI simple = (PVP objetivo − Coste total) / Coste total
 
 | Escenario | Gasto HW (€) | Horas | Tarifa interna (€/h) | **Coste total (€)** | **PVP objetivo (€)** | **ROI** | ¿Competitivo? |
 |---|---:|---:|---:|---:|---:|---:|---|
-| S0 | 0 |  |  |  |  |  |  |
-| S1 | ≤15 |  |  |  |  |  |  |
-| S2 | ≤30 |  |  |  |  |  |  |
+| S0 | 0 | 1h | 35 | 35 | 45 | 28% | Si |
+| S1 | ≤15 | 1.2h | 39,75 | 53 | 65 | 22% | Si |
+| S2 | ≤30 | 1.5h | 48,00 | 72 | 85 | 18% | Si |
 
 ## Elección final
-- Escenario elegido: …  
-- Motivos técnicos y de mercado: …
+- Escenario elegido: S2
+- Motivos técnicos y de mercado: Aunque el ROI sea menor, la experiencia de usuario sera mejor. Un PC con 8GB y SSD asegura que el centro de mayores no tenga quejas de lentitud en 3-4 años.
