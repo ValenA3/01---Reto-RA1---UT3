@@ -10,7 +10,7 @@ Videollamada: Zoom y WhatsApp Desktop  <br>
 - Usuarios/contraseñas y políticas de actualización. <br>
 - Script post‑instalación (si aplica).
 
-**Capturas:** `../assets/img/30-postinstalacion/`
+**Capturas:**
 ![usb](../assets/img/30-postinstalacion/usb.jpg "usb")
 ![lang](../assets/img/30-postinstalacion/lang.png "lang")
 ![ch](../assets/img/30-postinstalacion/ch.jpg "ch")
