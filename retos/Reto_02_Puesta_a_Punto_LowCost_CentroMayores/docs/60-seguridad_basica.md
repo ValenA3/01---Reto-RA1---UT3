@@ -5,4 +5,5 @@
 - Navegación segura por listas blancas (si procede).
 - Restauración rápida (snapshot o rsync base).
 
-**Capturas:** `../assets/img/60-seguridad/`
+**Capturas:** 
+![w](../assets/img/60-seguridad/win.jpg "w")
