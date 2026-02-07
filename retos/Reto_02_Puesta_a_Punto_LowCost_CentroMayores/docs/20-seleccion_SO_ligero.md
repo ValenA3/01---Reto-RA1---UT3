@@ -12,3 +12,7 @@ Candidatos (ejemplos): Linux Mint XFCE, Xubuntu, Debian + XFCE, Zorin Lite, Tiny
 
 **Justificación final:** Aunque Debian + XFCE es técnicamente superior en eficiencia, se elige finalmente Linux Mint XFCE por la facilidad de vida que ofrece al administrador y al usuario final
 **Capturas:** `../assets/img/20-so_ligero/`
+![linux](../assets/img/20-so_ligero/linux.png "linux")
+![x](../assets/img/20-so_ligero/xubuntu.png "x")
+![zorin](../assets/img/20-so_ligero/zorin.jpg "zorin")
+![debian](../assets/img/20-so_ligero/debian.png "debian")
