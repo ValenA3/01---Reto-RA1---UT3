@@ -11,3 +11,7 @@ Videollamada: Zoom y WhatsApp Desktop  <br>
 - Script post‑instalación (si aplica).
 
 **Capturas:** `../assets/img/30-postinstalacion/`
+![usb](../assets/img/30-postinstalacion/usb.jpg "usb")
+![lang](../assets/img/30-postinstalacion/lang.png "lang")
+![ch](../assets/img/30-postinstalacion/ch.jpg "ch")
+![lib](../assets/img/30-postinstalacion/lib.png "lib")
