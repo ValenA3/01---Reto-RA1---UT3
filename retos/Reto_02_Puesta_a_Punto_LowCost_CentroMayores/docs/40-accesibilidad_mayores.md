@@ -6,4 +6,5 @@
 - Accesos directos grandes a web frecuentes.
 - Configuración de teclado/ratón (doble clic, velocidad, puntero grande).
 
-**Capturas:** `../assets/img/40-accesibilidad/`
+**Capturas:** 
+![acc](../assets/img/40-accesibilidad/acc.jpg "acc")
