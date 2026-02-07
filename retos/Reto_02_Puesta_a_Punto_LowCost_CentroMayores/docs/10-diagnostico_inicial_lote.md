@@ -13,5 +13,7 @@ ESCENARIO S2
 - Estado térmico: El cuello de botella es crítico en el HDD.
 - Problemas detectados: polvo en ventilador de pc1 con pasta seca, pila agotada en pc2 y en general la ram deberia de mejorarse a 8gb ya que para videollamadas y trabajar es necesario tener 8gb
 
-**Capturas:** `../assets/img/10-diagnostico/`  
+**Capturas:**
 ![vent](../assets/img/10-diagnostico/vent.jpg "Ventilador")
+![pasta](../assets/img/10-diagnostico/pasta.jpg "Pasta termica")
+![pila](../assets/img/10-diagnostico/bateria.jpg "Pila agotada")
