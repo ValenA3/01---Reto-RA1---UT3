@@ -7,4 +7,5 @@
 | CPU en YouTube 720p (%) | 85% aprox | 40% aprox | Task manager |
 | Temperatura en carga (°C) | 78°C aprox | 62°C aprox | sensor s |
 
-**Capturas:** `../assets/img/70-metricas/`
+**Capturas:**
+![task](../assets/img/70-metricas/task.PNG "task")
