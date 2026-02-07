@@ -14,3 +14,4 @@ ESCENARIO S2
 - Problemas detectados: polvo en ventilador de pc1 con pasta seca, pila agotada en pc2 y en general la ram deberia de mejorarse a 8gb ya que para videollamadas y trabajar es necesario tener 8gb
 
 **Capturas:** `../assets/img/10-diagnostico/`  
+![vent](../assets/img/10-diagnostico/vent.jpg "Ventilador")
