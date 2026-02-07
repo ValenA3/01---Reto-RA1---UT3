@@ -3,7 +3,7 @@
 ## 1) Comparables (mínimo 3)
 | Plataforma | Enlace | Captura | Precio (€) | Especificación clave | Fecha/Hora |
 |---|---|---|---:|---|---|
-| Wallapop |  | `../assets/img/65-mercado/comp01.png` |  | CPU/RAM/SSD |  |
+| Wallapop | https://es.wallapop.com/item/dell-optiplex-3020-mini-pc-i3-ssd-8gb-ram-1226317147 | `../assets/img/65-mercado/comp01.png` | 85€ |  i3-4160T 3,10 GHz/8gb ddr3 1600 mhz / SSD 250GB | 17:08 07/02/2026 |
 | eBay |  | `../assets/img/65-mercado/comp02.png` |  |  |  |
 | CashConverters |  | `../assets/img/65-mercado/comp03.png` |  |  |  |
 
