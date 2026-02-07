@@ -7,4 +7,7 @@ Servicios: Deshabilitado Bluetooth (si no hay hardware) e impresión en red (si 
 - Ajustes navegador (bloqueo de anuncios, memoria caché, flags de bajo consumo).
 - Limpieza de temporales.
 
-**Capturas:** `../assets/img/50-optimizacion/`
+**Capturas:**
+![z](../assets/img/50-optimizacion/z.jpg "z")
+![b](../assets/img/50-optimizacion/b.png "b")
+
